@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: vjneju/sbapp:22
+        image: vjneju/sbapp:23
         ports:
         - containerPort: 8080
